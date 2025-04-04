@@ -1,0 +1,51 @@
+# Top 50 OOPs Interview Questions & Answers
+1. What is Object-oriented programming?
+2. What are the main features of object-oriented programming?
+3. What are the advantages of Object-oriented programming?
+4. What is Structural programming?
+5. What is a class?
+6. What do you mean by an object?
+7. Is it always necessary to create objects from class?
+8. What is a constructor?
+9. List the various types of constructors
+10. What is a destructor?
+11. What is meant by a copy constructor?
+12. highlight the difference between a class and a structure.
+13. explain the concept of inheritance with an example.
+14. What are the limitations of inheritance?
+15. What are the various types of inheritance?
+16. What is the meaning of hierarchical inheritance?
+17. Distinguish between multiple and multi-level inheritances.
+18. How do you define hybrid inheritance?
+19. What is a subclass?
+20. Define a superclass. 
+21. What is meant by an interface?
+22. What is polymorphism?
+23. What is meant by static polymorphism?
+24. What is meant by dynamic polymorphism?
+25. What is method overloading?
+26. What is the meaning of method overriding?
+27. Can you explain what operator overloading is?
+28. How do you explain the difference between overloading and overriding?
+29. What do you know about encapsulation?
+30. What is meant by data abstraction?
+31. How can data abstraction be accomplished?
+32. What is meant by abstract class?
+33. Can you please elaborate on ‘access specifiers’?
+34. How do you create an instance of an abstract class?
+35. What is a virtual function?
+36. What is a pure virtual function?
+37. Distinguish between data abstraction and encapsulation.
+38. What are the differences between interfaces and abstract classes?
+39. What is a final variable?
+40. What is meant by an exception?
+41. Define exception handling
+42. Is an error the same as an exception?
+43. What is a try-catch block?
+44. What is a finally block?
+45. What is the method ‘finalize’ used for?
+46. What is Garbage Collection, and how does it work?
+47. Should you always use Object-oriented programming? Are there any limitations of Object-oriented programming?    
+48. What are the important Object Oriented Programming languages?
+49. What are the limitations of OOPs?
+50. How does C++ programming language support Polymorphism?

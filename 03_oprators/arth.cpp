@@ -10,7 +10,7 @@ int main(){
     cout<<"Enter the number of tea cups: ";
     cin>>cups;
     cout<<"Enter the price of per cup: ";
-    cin>>pricePerCup;
+    cin>>pricePerCup; 
     totalPrice = pricePerCup * cups;
     //apply 5% discount if prce greater than / avove 100 rupees
 
@@ -20,7 +20,6 @@ if(totalPrice > 100){
 
 }endl{
     cout<<"yor are not eligible to get 5 percent discount"<<endl;
-
 
 };
     

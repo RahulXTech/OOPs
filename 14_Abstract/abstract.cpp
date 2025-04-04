@@ -6,8 +6,7 @@ using namespace std;
 // In abstraction we can hide unnecessoray details and show the neccesory details.
 
 // when we decleare virtual function in class after that we need  we need to define another class for the use of abstraction class
-// A class which has atleast one pure virtual function
-
+// A class which has atleast one pure virtual function.
 
 class Tea{
     public:
