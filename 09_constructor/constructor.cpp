@@ -4,9 +4,7 @@
 //Name of the constructor should be same as class name.
 //It doesn't have any return type.
 //It is used to initialize the value.
-
 //trying to making defult constructor in c++.
-
 #include<iostream>
 #include<string>
 #include<vector>
@@ -36,14 +34,10 @@ class tempChai{
         }
         cout<<endl<<"it's total process"<<endl;
     }
-
 };
-
-
 int main(){
 
 //when you create the object than constructure created at a time.
-
 
 tempChai chai;
 
@@ -52,7 +46,10 @@ chai.cups = 4;
 chai.gridiants = {"water", "suger", "milk", "tea", "masala", "tea_leves"};
 chai.chaiPrint();
 
+
+
 tempChai chaiSecond;
 chaiSecond.chaiPrint();
 return 0;
+
 };
