@@ -50,5 +50,7 @@ class masalaTea : public Tea{
 int main(){
     greenTea a;
     a.makeTea();
+
+    a.makeTea();
     return 0;
 }

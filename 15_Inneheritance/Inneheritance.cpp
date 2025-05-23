@@ -46,12 +46,13 @@ class GreenTea: public Tea{
 
 class masalaTea:public Tea{
     public:
-        masalaTea(int serve) Tea("masala tea ", serve){
+        masalaTea(int serve) : Tea("masala tea ", serve){
             cout<<"masalaTea constructor called"<<endl;
         }
-}
+};
 
 int main(){
+    Tea tea1;
     
 
     return 0;

@@ -3,6 +3,7 @@
 #include<string>
 
 using namespace std;
+//Benifits of getter and setter -> You can easly apply the any condition on the getting data.
 
 class person{
     private:

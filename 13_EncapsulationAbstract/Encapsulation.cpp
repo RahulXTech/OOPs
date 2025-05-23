@@ -5,8 +5,6 @@
 using namespace std;
 
 //Restrict the dat with the help of access spedifier that is called encapsulation.
-
-
 class BankAccoutn{
     private:
         string accountNumber;
@@ -16,12 +14,10 @@ class BankAccoutn{
             accountNumber = accNum;
             balance = bal;
         }
-
         //getter
         double getBalance() const{
             return balance;
         }
-
         //Method to withdraw money
         void withdraw(double amount){
             if(amount > 0 && amount<= balance){
@@ -38,18 +34,11 @@ class BankAccoutn{
                 cout<<"Invalid deposit"<<endl;
             }
         }
-
-
-
 };
-
 int main(){
     BankAccoutn myacc("23143234534",0);
     myacc.deposit(1000000);
     myacc.withdraw(2000);
-
     cout<<"Your balanace"<< myacc.getBalance();
-
     return 0;
-
 }
